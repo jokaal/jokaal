@@ -1,6 +1,6 @@
-Studying system development @TalTech since 2020.
-Python, Java & C#.
-WIP.
+- Studying system development @TalTech since 2020
+- Python, Java & C#
+- TODO: Graduate
 
 <!---
 jokaal/jokaal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
