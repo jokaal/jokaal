@@ -1,5 +1,5 @@
 - Studying system development @TalTech since 2020
-- Python, Java & C#
+- Python, Java, C#, PHP, JS
 - TODO: Graduate
 
 <!---
